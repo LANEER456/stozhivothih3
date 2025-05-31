@@ -1,0 +1,101 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+text-align: center;
+color: aliceblue;
+background-color: rgb(219, 69, 0);
+
+
+
+}
+
+
+
+
+a {
+    color: aliceblue;
+    background-color:rgb(223, 84, 19);
+     text-align: center;
+     
+
+
+
+
+}
+
+
+
+h2 {
+color: white;
+ background-color: rgb(236, 117, 62);
+ margin-left: 10px;
+ margin-top: 10px;
+ padding-left: 10px;
+ padding-right: 5px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+
+
+
+
+}
+
+
+
+body p {
+text-align: center;
+ background-color: rgb(236, 117, 62);
+
+ color: white;
+}
+
+
+img {
+   text-align: center;
+   margin: 10px;
+   
+   
+
+
+
+}
+
+
+
+
+header option {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+
+
+
+}
+
+
+
+footer p {
+background-color: rgb(255, 102, 0);
+border-radius: 0px;
+color: midnightblue;
+ padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+
+
+}
+
+
+
+h3 {
+ background-color: rgb(236, 117, 62);;
+ color: white
+
+
+}
